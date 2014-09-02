@@ -11,7 +11,7 @@ public class ColorWheel{
 
     //Member variable
     public String[] mColors = {
-            "#ff82d5d3",
+            "#ff094464",
             "#ffb5ad99",
             "#ff81ea68",
             "#ffeed0fd",

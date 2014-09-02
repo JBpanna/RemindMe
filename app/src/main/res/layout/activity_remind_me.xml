@@ -38,7 +38,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:background="#fffaffca"
-        android:textColor="#ff499949"
+        android:textColor="#ff7d1e39"
         android:clickable="false" />
 
 </RelativeLayout>
